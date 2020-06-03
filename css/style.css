@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+}
+
+.container-fluid {
+    min-height: 841px;
+}
+
+#nav_footer {
+    background-color: #007bff;
+    text-align: center;
+    color: #28a745;
+    padding: 10px 5px;
+}
